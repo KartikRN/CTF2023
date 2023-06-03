@@ -1,0 +1,14 @@
+These are the instructions for the CTF
+
+1. The goal of the challenge is to retrieve Flag (a text with alphanumeric and special characters).
+
+2. You have to find the flag and copy it on another file with name Flag.txt on your desktop.
+
+3. Use all the methods and commands learnt in the masterclass to overcome challenges and find the flag.
+
+4. The first one to find the flag and get it cross checked by any of the volunteer, will be declared as the winner.
+
+
+
+============================================ALL THE BEST===================================================
+
